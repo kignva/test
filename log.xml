@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-05-12T07:09:10</date>
+  <millis>1399896550257</millis>
+  <sequence>0</sequence>
+  <logger>testlogger.TestLogger</logger>
+  <level>INFO</level>
+  <class>testlogger.TestLogger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Log 1</message>
+</record>
+<record>
+  <date>2014-05-12T07:09:10</date>
+  <millis>1399896550310</millis>
+  <sequence>1</sequence>
+  <logger>testlogger.TestLogger</logger>
+  <level>INFO</level>
+  <class>testlogger.TestLogger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Log 2</message>
+</record>
+<record>
+  <date>2014-05-12T07:09:10</date>
+  <millis>1399896550312</millis>
+  <sequence>2</sequence>
+  <logger>testlogger.TestLogger</logger>
+  <level>INFO</level>
+  <class>testlogger.TestLogger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Log 3</message>
+</record>
+</log>
